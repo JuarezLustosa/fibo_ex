@@ -1,6 +1,6 @@
 # FibEx
 
-**TODO: Add description**
+This is for practice Elixir, with recursive. 
 
 ## Installation
 
